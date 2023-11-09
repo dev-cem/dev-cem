@@ -1,4 +1,3 @@
-- "Simplicity is the ultimate sophistication"
-- 👋 Hi, I’m Cem
+- 👋 Hi, I’m Cem | "Simplicity is the ultimate sophistication"
 - 📫 How to reach me : cem.turhan7@gmail.com
-- University of Geneva | AmenityDev
+- 💼 University of Geneva | AmenityDev
