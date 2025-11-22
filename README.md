@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Cem | "Simplicity is the ultimate sophistication"
 - 📫 How to reach me : cem.turhan7@gmail.com
-- 💼 University of Geneva | AmenityDev
+- 💼 AmenityDev SA
